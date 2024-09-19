@@ -3,5 +3,5 @@ I’m a Software Engineer experienced in software development, web programming, 
 🌱 I Develop Applications in PHP, C#, JavaScript, Laravel, MySQL, MariaDB, Apache, ASP.NET Core, PostgreSQL, MS-SQL, Django, Node, Express
 💞️ I’m open to collaborate on real-world projects where I get the opportunity to research, and develop every day
 📫 How to reach me? mobinashikmeher@gmail.com
-[![My Skills](https://skillicons.dev/icons?i=php,java,javascript,cs,django,angular,node,express,laravel,mysql,nginx,apache,html,css,linux,postgres,anaconda,npm,vue,nuxt,cassandra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,java,javascript,cs,django,angular,nodejs,express,laravel,mysql,nginx,apache,html,css,linux,postgres,anaconda,npm,vue,nuxt,cassandra,mongodb,jquery,jenkins,git)](https://skillicons.dev)
 
